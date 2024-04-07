@@ -3,3 +3,14 @@ Internal Project For CSIT 3rd Semester
 -> We need to make a story.
 -> Basic decision codes.
 -> Graphical elements.
+
+Decided to use doors as a main theme for the project, each time we pass throough a door, then the environment changes
+and we wont have to keep on applying nested conditions, we can just use switch case statements to switch environments and
+move forwardd with the story.
+
+Me -> passes through a door -> generates a random switch case statement number -> game jumps to a random location
+
+Need to make a door in C graphically
+
+Then, the number of doors passed through is calculated by the counter, when the counter reaches max, then we pass an
+unskippable end line and end the game.
