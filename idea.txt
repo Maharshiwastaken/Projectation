@@ -1,0 +1,5 @@
+Internal Project For CSIT 3rd Semester
+
+-> We need to make a story.
+-> Basic decision codes.
+-> Graphical elements.
